@@ -64,18 +64,6 @@ p {
 }
 /* end hero */
 
-/* start utilities */
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
-/* end utilities */
-
 /* start content */
 .content {
     width: 75%;
@@ -204,3 +192,15 @@ p {
     font-size: 20px;
 }
 /* end footer */
+
+/* start utilities */
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
+/* end utilities */
